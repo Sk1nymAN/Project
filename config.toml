@@ -53,7 +53,7 @@ disqusShortname = "bilberry-hugo-theme"
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Hello World! This is the most epic subtitle ever."
+    subtitle = "Atashi site"
 
     # if you want to use gravatar for the header image
     gravatarEMail = "code@lednerb.de"
@@ -112,17 +112,17 @@ disqusShortname = "bilberry-hugo-theme"
     # all icons https://fontawesome.com/icons?d=gallery&m=free
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
     socialMediaLinks = [
-      { link = "https://twitter.com/TheRealLednerb", icon = "fab fa-twitter" },
-      { link = "https://github.com/Lednerb", icon = "fab fa-github" },
+      { link = "https://twitter.com/sk1nym", icon = "fab fa-twitter" },
+      { link = "https://github.com/Sk1nymAN", icon = "fab fa-github" },
     ]
 
     # credits line configuration
     copyrightBy = "by Lednerb"
     copyrightUseCurrentYear = false  # set to true to always display the current year in the copyright
     copyrightYearOverride = "2017"
-    copyrightUrl = "https://github.com/Lednerb"
+    copyrightUrl = "https://github.com/Sk1nymAN"
     creditsText = "Bilberry Hugo Theme"
-    creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
+    creditsUrl = "https://github.com/Sk1nymAN/Project"
 
 
 # customize your available languages for your multi-langual site
