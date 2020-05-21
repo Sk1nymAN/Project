@@ -1,4 +1,4 @@
-title = "My cool new Blog"
+title = "My new site"
 baseURL = "https://example.com/"
 theme = "bilberry-hugo-theme"
 
@@ -53,7 +53,7 @@ disqusShortname = "bilberry-hugo-theme"
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Hello World! This is the most epic subtitle ever."
+    subtitle = "Hello World!"
 
     # if you want to use gravatar for the header image
     gravatarEMail = "code@lednerb.de"
