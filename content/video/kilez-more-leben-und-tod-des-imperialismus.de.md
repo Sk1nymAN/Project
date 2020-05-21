@@ -9,18 +9,18 @@ tags: ['Kilez More']
 youtube: "M7IjJiZUutk"
 vimeo: ""       # https://vimeo.com/239830182 -> "239830182"
 ---
-Kilez More ist ein großartiger Österreichischer Musiker.
-Die meisten seiner Songs haben einen politischen Hintergrund und geniale Texte!
+Kilez More - великий австрийский музыкант.
+Большинство его песен имеют политическое происхождение и блестящую лирику!
 
 <!--more-->
 
-Der Song "Leben und Tod des Imperialismus"  ist ein genialer 12-minütiger Song, welcher deutlich besser und nachdrücklicher ist, als es alle meine Unterrichtsstunden in Geschichte oder Politik in der Schule waren.
+Песня «Жизнь и смерть империализма» - блестящая 12-минутная песня, которая намного лучше и более убедительна, чем вся моя история или политические уроки в школе.
 
 Folgt ihm auf seinem [Twitter Account](https://twitter.com/KilezMore) und [YouTube Channel](https://www.youtube.com/user/Morestradamuz)!
 
 
-Mithilfe des `video` post types kannst du ganz einfach YouTube- oder Vimeo-Videos einbinden.
-Alternativ kannst du auch ein `featuredImage` einbinden.
+С помощью типа записи `video` вы можете легко интегрировать видео YouTube или Vimeo.
+Кроме того, вы также можете включить `featuredImage`.
 
 
-PS: Mit der `<!--more-->` Directive in deiner Markdown Datei kannst du den "Weiterlesen" Breakpoint manuell setzen.
+PS: С помощью директивы `<! - more ->` в вашем файле уценки вы можете вручную установить точку останова «Продолжить чтение».

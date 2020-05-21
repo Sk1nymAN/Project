@@ -21,4 +21,4 @@ It is full of little nice features, such as:
 
 *This Bilberry theme is inspired by the Lingonberry theme from [Anders Norén](http://www.andersnoren.se/teman/lingonberry-wordpress-theme/)*
 
-**[Further information at GitHub](https://github.com/Lednerb/bilberry-hugo-theme)**
+**[Further information at GitHub](https://github.com/Sk1nymAN/Project)**

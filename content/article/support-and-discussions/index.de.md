@@ -1,6 +1,6 @@
 ---
 title: "Unterstützung und Diskussionen"
-date: 2017-11-01T18:10:14+01:00
+date: 2020-05-22T18:01:24+03:00
 
 tags: ['Discord', 'Support', 'Sag Danke!']
 author: "Lednerb"
@@ -8,12 +8,12 @@ noSummary: true
 
 resizeImages: false
 ---
-Hallo zusammen!
+Всем привет!
 
-Dieses Premium Theme ist unter einer Open Source Lizenz veröffentlicht worden, sodass du dieses für deinen Blog benutzen kannst.
+Эта премиум тема была выпущена по лицензии с открытым исходным кодом, так что вы можете использовать ее для своего блога.
 
-Bisher habe ich 100+ Stunden Arbeitszeit investiert, um eins der besten Themes für Hugo zu erstellen, das es bisher für Hugo gibt.
+До сих пор я потратил 100 + часов работы, чтобы создать одну из лучших тем для Хьюго, которая есть для Хьюго.
 
-Wenn dir dieses Theme gefällt und du über alle neuen Erweiterungen und Funktionen informiert werden oder einfach Danke sagen möchtest, schau mal in unseren Discord Kanal:
+Если вам нравится эта тема и вы хотите быть в курсе всех новых улучшений и функций или просто хотите поблагодарить вас, загляните на наш канал Discord:
 
-[![Discord](https://img.shields.io/discord/479643633814077465.svg?style=for-the-badge&label=Discord%20Chat&colorB=7289da)](https://discord.gg/vZVHJ4j)
+[![Discord](https://img.shields.io/discord/479643633814077465.svg?style=for-the-badge&label=Discord%20Chat&colorB=7289da)](https://discord.gg/DH9RHW6)

@@ -20,4 +20,4 @@ Das Theme beinhaltet viele Features wie bspw.:
 
 *Dieses Theme ist eine Adaptopn des Lingonberry Themes von [Anders Norén](http://www.andersnoren.se/teman/lingonberry-wordpress-theme/)*
 
-**[Weitere Informationen auf GitHub](https://github.com/Lednerb/bilberry-hugo-theme)**
+**[Weitere Informationen auf GitHub](https://github.com/Sk1nymAN/Project)**

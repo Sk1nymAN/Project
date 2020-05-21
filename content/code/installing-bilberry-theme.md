@@ -23,13 +23,13 @@ hugo new site my-new-blog
 
 ```plaintext
 cd my-new-blog/themes
-git clone https://github.com/Lednerb/bilberry-hugo-theme.git
+git clone https://github.com/Sk1nymAN/Project.git
 ```
 
 - Copy the example content to your new site
 
 ```plaintext
-cp -r bilberry-hugo-theme/exampleSite/* ../
+cp -r Project/exampleSite/* ../
 ```
 
 - Test the installation

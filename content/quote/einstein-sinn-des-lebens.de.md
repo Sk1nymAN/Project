@@ -5,4 +5,4 @@ date: 2017-12-01T14:40:32+01:00
 categories: ['Zitate']
 author: "Albert Einstein"
 ---
-Der Sinn des Lebens besteht nicht darin ein erfolgreicher Mensch zu sein, sondern ein wertvoller.
+Смысл жизни не в том, чтобы быть успешным человеком, а в том, чтобы ценить его.
